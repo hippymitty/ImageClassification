@@ -5,8 +5,8 @@ This project contains the necessary code and images to understand the image clas
 * note: I use Australian spelling for filenames
 
 ### Project files in order are as follows:
-Images as Numerical Data (Images as a grid of pixels)
-Visualising RGB channel (RGB colourspace)
-Pre-processing Examples (Cropping and resizing)
-Green Screen car (Colour Masking, Green screen)
-Colour Conversions (HSV colour conversion)
+* Images as Numerical Data (Images as a grid of pixels)
+* Visualising RGB channel (RGB colourspace)
+* Pre-processing Examples (Cropping and resizing)
+* Green Screen car (Colour Masking, Green screen)
+* Colour Conversions (HSV colour conversion) (Work in progress)
